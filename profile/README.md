@@ -1,20 +1,20 @@
 # MythicAgents Organization
-|Name|Language|Active Dev (Past Year)|SOCKS Support|C2 Channels|Windows|macOS x64|macOS M-series|Linux|
-|----|--------|----------------------|-------------|-----------|-------|---------|--------------|-----|
-|[Apfell](https://github.com/MythicAgents/apfell)|JXA|Y|N/A|HTTP|N|Y|Y|N|
-|[Apollo](https://github.com/MythicAgents/apollo)|C# (.NET Framework 4.0)|Y|SOCKS5|HTTP, TCP, SMB|Y|N|N|N|
-|[Athena](https://github.com/MythicAgents/athena)|C# (.NET 6)|Y|SOCKS5|HTTP, Websockets, Slack, SMB|Y|Y|Y|Y|
-|[freyja](https://github.com/MythicAgents/freyja)|Golang|Y|SOCKS5|HTTP, Websockets, freyja_tcp|Y|Y|Y|Y|
-|[hermes](https://github.com/MythicAgents/hermes)|Swift 5|Y|N/A|HTTP|N|Y|Y|N|
-|[Leviathan](https://github.com/MythicAgents/leviathan)|Javascript (Chrome Extension)|Y|N/A|Websockets|N|N|N|N|
-|[Medusa](https://github.com/MythicAgents/medusa)|Python 2.7/3.8|Y|SOCKS5|HTTP|Y|Y|Y|Y|
-|[merlin](https://github.com/MythicAgents/merlin)|Golang|Y|SOCKS5|HTTP|Y|Y|Y|Y|
-|[Orthrus](https://github.com/MythicAgents/orthrus)|macOS supported languages as a .pkg|N|N/A|Apple MDM|N|Y|Y|N|
-|[poseidon](https://github.com/MythicAgents/poseidon)|Golang|Y|SOCKS5|HTTP, Websockets, poseidon_tcp|N|Y|Y|Y|
-|[tetanus](https://github.com/MythicAgents/tetanus)|Rust|Y|N/A|HTTP|Y|N|N|Y|
-|[typhon](https://github.com/MythicAgents/typhon)|XML (.plist)|N|N/A|Apple Jamf|N|Y|Y|N|
-|[venus](https://github.com/MythicAgents/venus)|Node.js (VS Code Extension)|N|N/A|HTTP|Y|Y|Y|Y|
-|[Zippy](https://github.com/MythicAgents/zippy)|Godot|Y|N/A|Websockets|N|N|N|Y|
-|[Nimplant](https://github.com/MythicAgents/nimplant)|Nim|Deprecated|N/A|HTTP|Y|N|N|Y|
-|[Atlas](https://github.com/MythicAgents/atlas)|C# (.NET 3.5 and .NET 4.0)|Deprecated|N/A|HTTP|Y|N|N|N|
-|[Hercules](https://github.com/MythicAgents/hercules)|PowerShell|Deprecated|N/A|HTTP|Y|N|N|N|
+| Name                                                   | Language                            | Active Dev (Past Year) | SOCKS5 Support     | C2 Channels                    | Windows            | macOS x64          | macOS M-series     | Linux              |
+|--------------------------------------------------------|-------------------------------------|------------------------|--------------------|--------------------------------|--------------------|--------------------|--------------------|--------------------|
+| [Apfell](https://github.com/MythicAgents/apfell)       | JXA                                 | :white_check_mark:     | :x:                | HTTP                           | :x:                | :white_check_mark: | :white_check_mark: | :x:                |
+| [Apollo](https://github.com/MythicAgents/apollo)       | C# (.NET Framework 4.0)             | :white_check_mark:     | :white_check_mark: | HTTP, TCP, SMB                 | :white_check_mark: | :x:                | :x:                | :x:                |
+| [Athena](https://github.com/MythicAgents/athena)       | C# (.NET 6)                         | :white_check_mark:     | :white_check_mark: | HTTP, Websockets, Slack, SMB   | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| [freyja](https://github.com/MythicAgents/freyja)       | Golang                              | :white_check_mark:     | :white_check_mark: | HTTP, Websockets, freyja_tcp   | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| [hermes](https://github.com/MythicAgents/hermes)       | Swift 5                             | :white_check_mark:     | :x:                | HTTP                           | :x:                | :white_check_mark: | :white_check_mark: | :x:                |
+| [Leviathan](https://github.com/MythicAgents/leviathan) | Javascript (Chrome Extension)       | :white_check_mark:     | :x:                | Websockets                     | :x:                | :x:                | :x:                | :x:                |
+| [Medusa](https://github.com/MythicAgents/medusa)       | Python 2.7/3.8                      | :white_check_mark:     | :white_check_mark: | HTTP                           | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| [merlin](https://github.com/MythicAgents/merlin)       | Golang                              | :white_check_mark:     | :white_check_mark: | HTTP                           | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| [Orthrus](https://github.com/MythicAgents/orthrus)     | macOS supported languages as a .pkg | :x:                    | :x:                | Apple MDM                      | :x:                | :white_check_mark: | :white_check_mark: | :x:                |
+| [poseidon](https://github.com/MythicAgents/poseidon)   | Golang                              | :white_check_mark:     | :white_check_mark: | HTTP, Websockets, poseidon_tcp | :x:                | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| [tetanus](https://github.com/MythicAgents/tetanus)     | Rust                                | :white_check_mark:     | :x:                | HTTP                           | :white_check_mark: | :x:                | :x:                | :white_check_mark: |
+| [typhon](https://github.com/MythicAgents/typhon)       | XML (.plist)                        | :x:                    | :x:                | Apple Jamf                     | :x:                | :white_check_mark: | :white_check_mark: | :x:                |
+| [venus](https://github.com/MythicAgents/venus)         | Node.js (VS Code Extension)         | :x:                    | :x:                | HTTP                           | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| [Zippy](https://github.com/MythicAgents/zippy)         | Godot                               | :white_check_mark:     | :x:                | Websockets                     | :x:                | :x:                | :x:                | :white_check_mark: |
+| [Nimplant](https://github.com/MythicAgents/nimplant)   | Nim                                 | Deprecated             | :x:                | HTTP                           | :white_check_mark: | :x:                | :x:                | :white_check_mark: |
+| [Atlas](https://github.com/MythicAgents/atlas)         | C# (.NET 3.5 and .NET 4.0)          | Deprecated             | :x:                | HTTP                           | :white_check_mark: | :x:                | :x:                | :x:                |
+| [Hercules](https://github.com/MythicAgents/hercules)   | PowerShell                          | Deprecated             | :x:                | HTTP                           | :white_check_mark: | :x:                | :x:                | :x:                |
