@@ -1,4 +1,9 @@
 # MythicAgents Organization
+
+Agents for [Mythic](https://github.com/its-a-feature/Mythic). See also: [Mythic C2 Profiles](https://github.com/MythicC2Profiles).
+
+## Summary of current agents
+
 | Name                                                   | Language                            | Active Dev (Past Year) | SOCKS5 Support     | C2 Channels                    | Windows            | macOS x64          | macOS M-series     | Linux              |
 |--------------------------------------------------------|-------------------------------------|------------------------|--------------------|--------------------------------|--------------------|--------------------|--------------------|--------------------|
 | [Apfell](https://github.com/MythicAgents/apfell)       | JXA                                 | :white_check_mark:     | :x:                | HTTP                           | :x:                | :white_check_mark: | :white_check_mark: | :x:                |
