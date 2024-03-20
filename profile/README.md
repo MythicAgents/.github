@@ -1,5 +1,5 @@
 
-<img alt="mythic" align="left" src="./mythic.svg" width="300" style="margin-right: 20px">
+<img alt="mythic" align="left" src="./profile/mythic.svg" width="300" style="margin-right: 20px">
 
 # Mythic Agents Organization
 The `MythicAgents` organization contains repositories from the community and <a href="https://github.com/SpecterOps">SpecterOps</a> with agents that can be installed in <a href="https://github.com/its-a-feature/Mythic">Mythic</a>.
