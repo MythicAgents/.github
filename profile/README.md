@@ -1,5 +1,5 @@
 
-<img alt="mythic" align="left" src="./profile/mythic.svg" width="350" style="margin-right: 20px">
+<img alt="mythic" align="left" src="./mythic_logo.svg" width="350" style="margin-right: 20px">
 
 <h3> Mythic Agents Organization</h3>
 
